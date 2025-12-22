@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">🌍 Hi there, I'm Frank 👋</h1>
-<h3>🌍 Geospatial Data Analyst | Data Analyst | Spatial Data Science</h1>
+<h3> Data | 🌍 Geospatial Data | Spatial Data Science</h1>
   
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
