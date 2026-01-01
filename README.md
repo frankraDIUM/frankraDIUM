@@ -88,9 +88,12 @@ I'm excited to connect with others on **spatial data analysis projects**, partic
 ---
 
 ✨ _“Turning raw data into meaningful insights and maps that matter.”_  
+Spatial Analysis
 <div>
   <img src="https://raw.githubusercontent.com/frankraDIUM/Malaria-Incident-in-Colombia-1998/refs/heads/main/Interactive%20map%20of%20malaria%20incidence%20in%20Colombia%20(1998).JPG"/>
 </div>
+
+Data Analysis
 <div>
   <img src="https://raw.githubusercontent.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/refs/heads/main/2.JPG"/>
 </div>
