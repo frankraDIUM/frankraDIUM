@@ -60,10 +60,10 @@ I'm a passionate Geospatial/Data Analyst with a broad technical skillset. I thri
 Here are some of the areas I’ve worked on or am currently exploring:
 
 - **Spatial Analysis**: Building models to analyze geographic patterns and trends.
-- **Data Visualization**: Creating interactive dashboards and maps using Power BI and ArcGIS.
+- **Data Visualization**: Creating interactive dashboards and maps using Power BI and ArcGIS/QGIS.
 - **Remote Sensing**: Processing satellite imagery for environmental monitoring, urban development analysis etc.
-- **Machine Learning**: Applying ML algorithms to (geospatial) datasets.
-- **Web & App Development**: Developing front-end applications and geospatial tools.
+- **Machine Learning**: Applying ML algorithms to datasets.
+- **Web & App Development**: Developing front-end applications
 
 ## 🤝 Let's Collaborate!
 
@@ -88,6 +88,7 @@ I'm excited to connect with others on **spatial data analysis projects**, partic
 ---
 
 ✨ _“Turning raw data into meaningful insights and maps that matter.”_  
+
 Spatial Analysis
 <div>
   <img src="https://raw.githubusercontent.com/frankraDIUM/Malaria-Incident-in-Colombia-1998/refs/heads/main/Interactive%20map%20of%20malaria%20incidence%20in%20Colombia%20(1998).JPG"/>
