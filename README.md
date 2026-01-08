@@ -59,11 +59,12 @@ I'm a passionate Geospatial/Data Analyst with a broad technical skillset. I thri
 ## 🚀 Projects
 Here are some of the areas I’ve worked on or am currently exploring:
 
-- **Spatial Analysis**: Building models to analyze geographic patterns and trends.
+- **Spatial/Data Analysis**: Building models to analyze geographic patterns and trends.
 - **Data Visualization**: Creating interactive dashboards and maps using Power BI and ArcGIS/QGIS.
 - **Remote Sensing**: Processing satellite imagery for environmental monitoring, urban development analysis etc.
 - **Machine Learning**: Applying ML algorithms to datasets.
 - **Web & App Development**: Developing front-end applications
+- **Cloud Computing**
 
 ## 🤝 Let's Collaborate!
 
