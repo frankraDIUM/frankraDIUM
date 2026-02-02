@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   </p>
 </div>
 
@@ -29,7 +29,9 @@ See here 👉 [![View](https://img.shields.io/badge/View-Click%20Here-blue)](htt
 <div>
   <img src="https://img.shields.io/badge/ArcGIS_Pro-2C7AB3?style=flat-square&logo=arcgis&logoColor=white" alt="ArcGIS Pro"/>
   <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/ENVI-00A651?style=flat-square" alt="ENVI"/>
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet"/>
   <img src="https://img.shields.io/badge/eCognition-FF6600?style=flat-square" alt="eCognition"/>
   <img src="https://img.shields.io/badge/Google_Earth-4285F4?style=flat-square&logo=google-earth&logoColor=white" alt="Google Earth"/>
 </div>
@@ -58,6 +60,7 @@ See here 👉 [![View](https://img.shields.io/badge/View-Click%20Here-blue)](htt
 
 ### **Tools & Platforms**
 <div>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" alt="Google Colab"/>
