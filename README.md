@@ -16,6 +16,11 @@
 
 I'm a passionate Geospatial/Data Analyst with a broad technical skillset. I thrive at the intersection of spatial analysis, data science, and software development, transforming complex geospatial data into meaningful insights and applications.  Lifelong learner exploring Geospatial AI, Data Fusion & Digital Skills.
 
+
+## 🚀 Projects
+See here 👉 [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Overview/blob/main/README.md)</button>
+
+
 ## 🛠️ Technical Toolkit
 
 ### **Geospatial & Data Analysis**
@@ -55,11 +60,6 @@ I'm a passionate Geospatial/Data Analyst with a broad technical skillset. I thri
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" alt="Google Colab"/>
 </div>
-
-## 🚀 Projects
-See here 👉 [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Overview/blob/main/README.md)</button>
-
-
 
 
 ## 📫 Let's Connect
