@@ -92,7 +92,7 @@ I'm excited to connect with others on **spatial data analysis projects**, partic
 
 Spatial Analysis
 <div>
-  <img src="https://raw.githubusercontent.com/frankraDIUM/Malaria-Incident-in-Colombia-1998/refs/heads/main/Interactive%20map%20of%20malaria%20incidence%20in%20Colombia%20(1998).JPG"/>
+  <img src="https://github.com/frankraDIUM/Transit-Accessibility-Analysis-in-New-York-City/blob/main/kepler.gl.png"/>
 </div>
 
 Data Analysis
