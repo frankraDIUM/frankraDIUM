@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
- I thrive at the intersection of spatial analysis, data science, and software development, transforming complex geospatial data into meaningful insights and applications.
+ I thrive at the intersection of spatial analysis, data science, and software development, transforming complex data into meaningful insights and applications.
 
 
 
