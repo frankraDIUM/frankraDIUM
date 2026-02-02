@@ -57,18 +57,8 @@ I'm a passionate Geospatial/Data Analyst with a broad technical skillset. I thri
 </div>
 
 ## 🚀 Projects
-Here are some of the areas I’ve worked on or am currently exploring:
+See here 👉 [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Overview/blob/main/README.md)</button>
 
-- **Spatial/Data Analysis**: Building models to analyze geographic patterns and trends.
-- **Data Visualization**: Creating interactive dashboards and maps using Power BI and ArcGIS/QGIS.
-- **Remote Sensing**: Processing satellite imagery for environmental monitoring, urban development analysis etc.
-- **Machine Learning**: Applying ML algorithms to datasets.
-- **Web & App Development**: Developing front-end applications
-- **Cloud Computing**
-
-## 🤝 Let's Collaborate!
-
-I'm excited to connect with others on **spatial data analysis projects**, particularly those involving **Python**. If you’re working on something cool in geospatial analysis, data visualization, or related fields, feel free to reach out!
 
 
 
