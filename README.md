@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
- I thrive at the intersection of spatial analysis, data science, and software development, transforming complex data into meaningful insights and applications.
+ I thrive at the intersection of data analysis, spatial analysis, data science, spatial data science, and software development, transforming complex data into meaningful insights and applications.
 
 
 
