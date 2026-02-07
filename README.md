@@ -11,7 +11,7 @@
 
 
 ## 🚀 Projects
-See here 👉 [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Overview/blob/main/README.md)</button>
+**See here** 👉 [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Overview/blob/main/README.md)</button>
 
 
 
