@@ -87,3 +87,7 @@ Data Analysis
 <div>
   <img src="https://raw.githubusercontent.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/refs/heads/main/2.JPG"/>
 </div>
+
+---
+
+![Deforestation Animation](animated_change.gif)
