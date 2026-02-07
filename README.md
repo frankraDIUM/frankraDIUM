@@ -90,4 +90,7 @@ Data Analysis
 
 ---
 
-![Deforestation Animation](animated_change.gif)
+<div>
+  <img src="https://github.com/frankraDIUM/Amazon-Deforestation-Monitoring-Sub-Region-Analysis-Rondonia-Hotspot-/blob/main/animated_change.gif"/>
+</div>
+
