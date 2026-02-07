@@ -78,18 +78,18 @@
 
 ✨ _“Turning raw data into meaningful insights and maps that matter.”_  
 
-Spatial Analysis
+Spatial Data
 <div>
   <img src="https://github.com/frankraDIUM/Transit-Accessibility-Analysis-in-New-York-City/blob/main/kepler.gl.png"/>
 </div>
 
-Data Analysis
+Data 
 <div>
   <img src="https://raw.githubusercontent.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/refs/heads/main/2.JPG"/>
 </div>
 
 ---
-
+Animated Change
 <p align="center">
   <img src="https://raw.githubusercontent.com/frankraDIUM/Amazon-Deforestation-Monitoring-Sub-Region-Analysis-Rondonia-Hotspot-/main/animated_change.gif" />
 </p>
