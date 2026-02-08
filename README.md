@@ -9,11 +9,12 @@
  I thrive at the intersection of data analysis, spatial analysis, data science, spatial data science, and software development, transforming complex data into meaningful insights and applications.
 
 
-
+---
 ## 🚀 Projects
 **See here** 👉 [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Overview/blob/main/README.md)</button>
 
 
+---
 
 ## 🛠️ Technical Toolkit
 
