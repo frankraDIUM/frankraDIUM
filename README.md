@@ -89,7 +89,7 @@ Data
 </div>
 
 ---
-Animated Change
+Animated Change (Deforestation)
 <p align="center">
   <img src="https://raw.githubusercontent.com/frankraDIUM/Amazon-Deforestation-Monitoring-Sub-Region-Analysis-Rondonia-Hotspot-/main/animated_change.gif" />
 </p>
