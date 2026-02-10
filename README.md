@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">🌍 Hi there, I'm Frank 👋</h1>
-<h3> Data | Geospatial Data | Spatial Data Science | Software Development | Cloud</h1>
+<h3> Data | Geospatial Data | Machine Learning| Software Development | Cloud</h1>
   
 
 
