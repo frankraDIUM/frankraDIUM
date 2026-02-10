@@ -1,12 +1,12 @@
 <!-- Profile Header -->
 <h1 align="center">🌍 Hi there, I'm Frank 👋</h1>
-<h3> Data | Geospatial Data | Machine Learning| Software Development | Cloud</h1>
+<h3> Data | Geospatial Data | Machine Learning | Software Development | Cloud (AWS.GCP)</h1>
   
 
 
 ## 👋 About Me
 
- I thrive at the intersection of data analysis, spatial analysis, data science, spatial data science, and software development, transforming complex data into meaningful insights and applications.
+ At the intersection of data analysis, spatial analysis, data science, spatial data science, and software development, transforming complex data into meaningful insights and applications.
 
 
 ---
