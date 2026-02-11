@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Technical Toolkit
+##  Technical Toolkit
 
 ### **Geospatial & Data Analysis**
 <div>
