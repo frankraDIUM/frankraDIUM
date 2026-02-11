@@ -75,9 +75,10 @@ Data
   <img src="https://raw.githubusercontent.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/refs/heads/main/2.JPG"/>
 </div>
 
-
+---
 
 Spatial Data
+
 <div>
   <img src="https://github.com/frankraDIUM/Transit-Accessibility-Analysis-in-New-York-City/blob/main/transit%203d.png"/>
 </div>
