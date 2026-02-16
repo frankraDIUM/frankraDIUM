@@ -74,9 +74,14 @@ Data
 <div>
   <img src="https://raw.githubusercontent.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/refs/heads/main/2.JPG"/>
 </div>
----
 
+---
 ML
+
+
+<div>
+  <img src="https://github.com/frankraDIUM/Stock-Market-Clustering-ML/blob/main/pca.png"/>
+</div>
 
 <div>
   <img src="https://github.com/frankraDIUM/Stock-Market-Clustering-ML/blob/main/t-SNE%20visualization.png"/>
