@@ -78,15 +78,13 @@ Data
 ---
 ML
 
-
-<div>
-  <img src="https://github.com/frankraDIUM/Stock-Market-Clustering-ML/blob/main/pca.png"/>
-</div>
-
 <div>
   <img src="https://github.com/frankraDIUM/Stock-Market-Clustering-ML/blob/main/t-SNE%20visualization.png"/>
 </div>
 
+<div>
+  <img src="https://github.com/frankraDIUM/Telco-Customer-Churn-Predictive-Analysis-Explainable-AI/blob/main/shap_beeswarm_plot.png"/>
+</div>
 ---
 Spatial Data
 
