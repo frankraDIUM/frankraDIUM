@@ -79,7 +79,7 @@ Data
 ML
 
 <div>
-  <img src="https://github.com/frankraDIUM/FraudShield-AI/blob/main/live_dashboard.png" width="70"/>
+  <img src="https://github.com/frankraDIUM/FraudShield-AI/blob/main/live_dashboard.png"/>
 </div>
 
 ---
