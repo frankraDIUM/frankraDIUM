@@ -13,6 +13,39 @@
 ##  Projects
 **SEE HERE** 👉 [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Overview/blob/main/README.md)</button>
 
+---
+
+✨ _“Turning raw data into meaningful insights and maps that matter.”_  
+
+Data
+
+<div>
+  <img src="https://raw.githubusercontent.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/refs/heads/main/1.JPG"/>
+</div>
+
+<div>
+  <img src="https://raw.githubusercontent.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/refs/heads/main/2.JPG"/>
+</div>
+
+---
+ML
+
+<div>
+  <img src="https://github.com/frankraDIUM/FraudShield-AI/blob/main/live_dashboard.png"/>
+</div>
+
+---
+Spatial Data
+
+<div>
+  <img src="https://github.com/frankraDIUM/Transit-Accessibility-Analysis-in-New-York-City/blob/main/transit%203d.png"/>
+</div>
+
+---
+Animated Change (Deforestation Hotspots)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/frankraDIUM/Amazon-Deforestation-Monitoring-Sub-Region-Analysis-Rondonia-Hotspot-/main/animated_change.gif" />
+</p>
 
 ---
 
@@ -59,41 +92,4 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" alt="Google Colab"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
 </div>
-
-
----
-
-✨ _“Turning raw data into meaningful insights and maps that matter.”_  
-
-Data
-
-<div>
-  <img src="https://raw.githubusercontent.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/refs/heads/main/1.JPG"/>
-</div>
-
-<div>
-  <img src="https://raw.githubusercontent.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/refs/heads/main/2.JPG"/>
-</div>
-
----
-ML
-
-<div>
-  <img src="https://github.com/frankraDIUM/FraudShield-AI/blob/main/live_dashboard.png"/>
-</div>
-
----
-Spatial Data
-
-<div>
-  <img src="https://github.com/frankraDIUM/Transit-Accessibility-Analysis-in-New-York-City/blob/main/transit%203d.png"/>
-</div>
-
----
-Animated Change (Deforestation Hotspots)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/frankraDIUM/Amazon-Deforestation-Monitoring-Sub-Region-Analysis-Rondonia-Hotspot-/main/animated_change.gif" />
-</p>
-
-
 
