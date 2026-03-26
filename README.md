@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">🌍 Hi there, I'm Frank 👋</h1>
-<h3> Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Data Analysis and Spatial Data Science | GeoAI </h3>
+<h4> Data Analysis and Dashboards | Data Science and Machine Learning | Geospatial Data Analysis and Spatial Data Science | GeoAI </h4>
 --- 
 
 
