@@ -16,7 +16,7 @@
 
 ✨ _“Turning raw data into meaningful insights and maps that matter.”_  
 
-Data
+**Data**
 
 <div>
   <img src="https://raw.githubusercontent.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/refs/heads/main/1.JPG"/>
@@ -27,14 +27,14 @@ Data
 </div>
 
 ---
-ML
+**ML**
 
 <div>
   <img src="https://github.com/frankraDIUM/FraudShield-AI/blob/main/fraud.gif"/>
 </div>
 
 ---
-Spatial Data
+**Spatial Data**
 
 <div>
   <img src="https://github.com/frankraDIUM/Transit-Accessibility-Analysis-in-New-York-City/blob/main/transit%203d.png"/>
