@@ -23,7 +23,7 @@
 </div>
 
 <div>
-  <img src="https://raw.githubusercontent.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/refs/heads/main/2.JPG"/>
+  <img src="https://github.com/frankraDIUM/Supply-Chain-Inventory-Optimization-Dashboard/blob/main/Overview.png"/>
 </div>
 
 ---
