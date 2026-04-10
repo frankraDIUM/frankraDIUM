@@ -37,7 +37,7 @@
 **Spatial Data**
 
 <div>
-  <img src="https://github.com/frankraDIUM/Transit-Accessibility-Analysis-in-New-York-City/blob/main/transit%203d.png"/>
+  <img src="https://github.com/frankraDIUM/Transit-Accessibility-Analysis-in-New-York-City/blob/main/transit3d.gif"/>
 </div>
 
 ---
