@@ -14,16 +14,16 @@
 
 ---
 
-✨ _“Turning raw data into meaningful insights and maps that matter.”_  
+✨ _“Turning raw data into meaningful insights, apps and maps that matter.”_  
 
 **Data**
 
 <div>
-  <img src="https://raw.githubusercontent.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/refs/heads/main/1.JPG"/>
+  <img src="https://github.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/blob/main/retail.gif"/>
 </div>
 
 <div>
-  <img src="https://github.com/frankraDIUM/Supply-Chain-Inventory-Optimization-Dashboard/blob/main/Overview.png"/>
+  <img src="https://github.com/frankraDIUM/Supply-Chain-Inventory-Optimization-Dashboard/blob/main/supply.gif"/>
 </div>
 
 ---
