@@ -41,11 +41,10 @@
 </div>
 
 ---
-Animated Change (Deforestation Hotspots)
+GeoAI
 <p align="center">
-  <img src="https://raw.githubusercontent.com/frankraDIUM/Amazon-Deforestation-Monitoring-Sub-Region-Analysis-Rondonia-Hotspot-/main/animated_change.gif" />
+  <img src="https://github.com/frankraDIUM/Chicago-Urban-Mobility-Pattern-Analysis-Using-Satellite-Imagery-Taxi-Data-and-ML/blob/main/mobility_analysis_.gif" />
 </p>
-
 ---
 
 ##  Technical Toolkit
