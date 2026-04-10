@@ -49,7 +49,6 @@ GeoAI
 
 ##  Technical Toolkit
 
-### **Geospatial & Data Analysis**
 <div>
   <img src="https://img.shields.io/badge/ArcGIS_Pro-2C7AB3?style=flat-square&logo=arcgis&logoColor=white" alt="ArcGIS Pro"/>
   <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS"/>
@@ -60,7 +59,6 @@ GeoAI
   <img src="https://img.shields.io/badge/Google_Earth-4285F4?style=flat-square&logo=google-earth&logoColor=white" alt="Google Earth"/>
 </div>
 
-### **Programming & Development**
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=fff" alt="SQL"/>
@@ -73,7 +71,6 @@ GeoAI
   <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=fff" alt="Android"/>
 </div>
 
-### **Data Science & Visualization**
 <div>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
@@ -82,7 +79,6 @@ GeoAI
   <img src="https://img.shields.io/badge/-SPSS-0064A5?style=flat-square&logo=ibm&logoColor=fff" alt="SPSS"/>
 </div>
 
-### **Tools & Platforms**
 <div>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
