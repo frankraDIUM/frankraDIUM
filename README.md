@@ -43,6 +43,10 @@
 ---
 GeoAI
 <p align="center">
+  <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban.gif" />
+</p>
+
+<p align="center">
   <img src="https://github.com/frankraDIUM/Chicago-Urban-Mobility-Pattern-Analysis-Using-Satellite-Imagery-Taxi-Data-and-ML/blob/main/mobility_analysis_.gif" />
 </p>
 ---
