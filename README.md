@@ -52,7 +52,7 @@ GeoAI
 
 
 <p align="center">
-  <img src="https://github.com/frankraDIUM/Building-Level-Solar-Suitability-Mapping-in-Urban-Ghana/blob/main/Solar1.gif" />
+  <img src="https://github.com/frankraDIUM/Building-Level-Solar-Suitability-Mapping-in-Urban-Ghana/blob/main/Solar.gif" />
 </p>
 ---
 
