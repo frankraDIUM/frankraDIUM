@@ -49,6 +49,11 @@ GeoAI
 <p align="center">
   <img src="https://github.com/frankraDIUM/Chicago-Urban-Mobility-Pattern-Analysis-Using-Satellite-Imagery-Taxi-Data-and-ML/blob/main/mobility_analysis_.gif" />
 </p>
+
+
+<p align="center">
+  <img src="https://github.com/frankraDIUM/Building-Level-Solar-Suitability-Mapping-in-Urban-Ghana/blob/main/Solar1.gif" />
+</p>
 ---
 
 ##  Technical Toolkit
