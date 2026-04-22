@@ -5,7 +5,9 @@
 
 ##  About Me
 
- At the intersection of data analysis, spatial analysis, data science, spatial data science, machine learning, and software development, transforming complex data into meaningful insights and applications.
+ At the intersection of data analysis, spatial analysis, data science, spatial data science, machine learning, and software development, transforming complex data into meaningful insights and applications. 
+ ✨ _“Turning raw data into meaningful insights, apps and maps that matter.”_  
+
 
 
 ---
@@ -13,8 +15,6 @@
 **SEE HERE** 👉 [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Overview/blob/main/README.md)</button>
 
 ---
-
-✨ _“Turning raw data into meaningful insights, apps and maps that matter.”_  
 
 **Data**
 
