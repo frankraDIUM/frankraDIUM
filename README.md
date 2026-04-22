@@ -6,7 +6,7 @@
 ##  About Me
 
  At the intersection of data analysis, spatial analysis, data science, spatial data science, machine learning, and software development, transforming complex data into meaningful insights and applications. 
- ✨ _“Turning raw data into meaningful insights, apps and maps that matter.”_  
+
 
 
 
