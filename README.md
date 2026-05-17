@@ -10,7 +10,7 @@
  Bored? Click Here: 👉 [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://frankradium.github.io/shadowpath/)</button>
 
 ---
-##  Projects
+##  Selected Projects
 
 * Data Analysis & Dashboards | Data Science & Machine Learning 👉 [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Overview/blob/main/README.md)</button>
 
