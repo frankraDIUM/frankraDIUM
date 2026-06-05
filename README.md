@@ -28,7 +28,7 @@
 </div>
 
 ---
-** DS/ML**
+** DS and ML**
 
 <div>
   <img src="https://github.com/frankraDIUM/FraudShield-AI/blob/main/fraud.gif"/>
