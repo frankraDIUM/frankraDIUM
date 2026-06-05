@@ -44,6 +44,10 @@
 ---
 GeoAI
 <p align="center">
+  <img src="https://github.com/frankraDIUM/Building-Level-Solar-Suitability-Mapping-in-Urban-Ghana/blob/main/Solar.gif" />
+</p>
+
+<p align="center">
   <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban.gif" />
 </p>
 
