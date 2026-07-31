@@ -43,9 +43,6 @@
 
 ---
 GeoAI
-<p align="center">
-  <img src="https://github.com/frankraDIUM/Building-Level-Solar-Suitability-Mapping-in-Urban-Ghana/blob/main/Solar.gif" />
-</p>
 
 <p align="center">
   <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban.gif" />
@@ -53,11 +50,6 @@ GeoAI
 
 <p align="center">
   <img src="https://github.com/frankraDIUM/Chicago-Urban-Mobility-Pattern-Analysis-Using-Satellite-Imagery-Taxi-Data-and-ML/blob/main/mobility_analysis_.gif" />
-</p>
-
-
-<p align="center">
-  <img src="https://github.com/frankraDIUM/Uganda-Multi-Disease-GeoAI-Early-Warning-System/blob/main/Uganda_2_linked.gif" />
 </p>
 
 
