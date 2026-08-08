@@ -20,10 +20,6 @@
 **Data**
 
 <div>
-  <img src="https://github.com/frankraDIUM/Online-Retail-Sales-Performance-Dashboard/blob/main/retail.gif"/>
-</div>
-
-<div>
   <img src="https://github.com/frankraDIUM/Supply-Chain-Inventory-Optimization-Dashboard/blob/main/supply.gif"/>
 </div>
 
@@ -45,12 +41,14 @@
 GeoAI
 
 <p align="center">
-  <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban.gif" />
+  <img src="https://github.com/frankraDIUM/Chicago-Urban-Mobility-Intelligence-Platform/blob/main/ch_mobi_ai.gif" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/frankraDIUM/Chicago-Urban-Mobility-Pattern-Analysis-Using-Satellite-Imagery-Taxi-Data-and-ML/blob/main/mobility_analysis_.gif" />
+  <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/urban.gif" />
 </p>
+
+
 
 
 ##  Technical Toolkit
