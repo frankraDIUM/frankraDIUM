@@ -45,7 +45,7 @@ GeoAI
 </p>
 
 <p align="center">
-  <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/cape_final.gif" />
+  <img src="https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System/blob/main/cape_small.gif" />
 </p>
 
 
