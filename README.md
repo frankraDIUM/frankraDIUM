@@ -17,29 +17,6 @@
 * Geospatial Data Analysis & Spatial Data Science | GeoAI 👉 [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Overview-geoai/blob/main/README.md)</button>
 ---
 
-**Data**
-
-<div>
-  <img src="https://github.com/frankraDIUM/Supply-Chain-Inventory-Optimization-Dashboard/blob/main/supply.gif"/>
-</div>
-
----
-**DS & ML**
-
-<div>
-  <img src="https://github.com/frankraDIUM/FraudShield-AI/blob/main/fraud.gif"/>
-</div>
-
----
-**Spatial Data**
-
-<div>
-  <img src="https://github.com/frankraDIUM/Transit-Accessibility-Analysis-in-New-York-City/blob/main/transit3d.gif"/>
-</div>
-
----
-GeoAI
-
 <p align="center">
   <img src="https://github.com/frankraDIUM/Chicago-Urban-Mobility-Intelligence-Platform/blob/main/ch_mobi_ai.gif" />
 </p>
