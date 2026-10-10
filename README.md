@@ -4,8 +4,20 @@
 
 
 ##  About Me
+### Beyond GIS: End-to-End Geospatial Intelligence
 
- At the intersection of data analysis, spatial analysis, data science, spatial data science, machine learning, and software development, transforming complex data into meaningful insights and intelligent applications. 
+I work across the geospatial technology stack, connecting data engineering, spatial analysis, machine learning, and application development.
+
+**Plan → Design → Engineer → Model → Analyse → Deploy**
+
+My focus is building end-to-end intelligent geospatial systems that transform raw spatial data into actionable insights and decision-support applications.
+
+Areas of interest:
+- Geospatial Data Engineering
+- Spatial Data Science & Machine Learning
+- GeoAI & Predictive Modelling
+- Geospatial Application Development
+- Decision-Support Systems
 
  Bored? Click Here: 👉 [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://frankradium.github.io/shadowpath/)</button>
 
